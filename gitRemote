@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+A remote is a repository not stored locally. an upstream remote is a repository not stored locally from which information is taken. :
