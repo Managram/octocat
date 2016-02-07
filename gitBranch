@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is a new 'timeline' within git: at any given points in a save, one can branch out in git and work on individual parts of the code separately or see what happens when one tries something different.
